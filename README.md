@@ -81,3 +81,8 @@ I'm a **Computer Engineering graduate from NYU** with experience building scalab
 
 ```txt
 AI Systems • MLOps • Backend Architecture • LLM Applications • Distributed Systems
+```
+
+<p align="center">
+  <img src="game.gif" alt="GitHub contribution space shooter" />
+</p>
