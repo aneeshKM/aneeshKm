@@ -5,20 +5,10 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/aneeshkmokashi/">
-    <img src="https://img.shields.io/badge/L%20I%20N%20K%20E%20D%20I%20N-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  
-  <!-- <a href="YOUR_PORTFOLIO_URL">
-    <img src="https://img.shields.io/badge/P%20O%20R%20T%20F%20O%20L%20I%20O-6C63FF?style=for-the-badge&logo=aboutdotme&logoColor=white" />
-  </a> -->
-  <a href="mailto:aneeshkmokashi@gmail.com">
-    <img src="https://img.shields.io/badge/E%20M%20A%20I%20L-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  
-  <a href="https://github.com/aneeshKm">
-    <img src="https://img.shields.io/badge/G%20I%20T%20H%20U%20B-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+  <a href="https://linkedin.com/in/aneeshkmokashi/"><img src="https://img.shields.io/badge/L%20I%20N%20K%20E%20D%20I%20N-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <!-- <a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/P%20O%20R%20T%20F%20O%20L%20I%20O-6C63FF?style=for-the-badge&logo=aboutdotme&logoColor=white" alt="Portfolio" /></a> -->
+  <a href="mailto:aneeshkmokashi@gmail.com"><img src="https://img.shields.io/badge/E%20M%20A%20I%20L-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/aneeshKm"><img src="https://img.shields.io/badge/G%20I%20T%20H%20U%20B-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
 ---
