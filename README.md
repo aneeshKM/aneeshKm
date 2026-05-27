@@ -5,18 +5,26 @@
 </p>
 
 <p align="center">
-  <a href="mailto:akm9999@nyu.edu">Email</a> •
-  <a href="https://linkedin.com/in/aneeshkmokashi/">LinkedIn</a> •
-  <a href="https://github.com/aneeshKm">GitHub</a>
+  <a href="https://linkedin.com/in/aneeshkmokashi/">
+    <img src="https://img.shields.io/badge/L%20I%20N%20K%20E%20D%20I%20N-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <!-- <a href="YOUR_PORTFOLIO_URL">
+    <img src="https://img.shields.io/badge/P%20O%20R%20T%20F%20O%20L%20I%20O-6C63FF?style=for-the-badge&logo=aboutdotme&logoColor=white" />
+  </a> -->
+  <a href="mailto:aneeshkmokashi@gmail.com">
+    <img src="https://img.shields.io/badge/E%20M%20A%20I%20L-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/aneeshKm">
+    <img src="https://img.shields.io/badge/G%20I%20T%20H%20U%20B-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
-
 ---
 
 ### About Me
 
 I'm a **Computer Engineering graduate from NYU** with experience building scalable backend systems and AI/ML pipelines.
 
-- Previously worked at **Accenture**, building Spring Boot microservices for financial systems  
+- Previously worked at **Accenture**, building Spring Boot microservices and full-stack tools
 - Worked on **vision-language models, clinical AI benchmarking, and model evaluation pipelines**  
 - Interested in **AI systems, backend engineering, MLOps, distributed systems, and cloud-native applications**  
 - I enjoy building clean, reliable software that solves real problems  
@@ -60,17 +68,13 @@ I'm a **Computer Engineering graduate from NYU** with experience building scalab
 
 ---
 
-### Featured Work
+### Featured Projects
 
-- **Jitsi Topic Segmentation & Recap MLOps System**  
-  Built transcript ingestion, workflow tracking, feedback loops, and monitoring for meeting recap generation.
+- **[ML-Sys-Ops-Project](https://github.com/aneeshKm/ML-Sys-Ops-Project)**  
+  Topic segmentation and segment-aware summarization system for Jitsi meetings using Python, PostgreSQL, Docker, MLflow, and Grafana.
 
-- **Transformer-Based Time Series Forecasting**  
-  Optimized model training by integrating FlashAttention into a Temporal Fusion Transformer.
-
-- **Real-Time Data Visualization Dashboard**  
-  Built a Spring Boot + WebSocket dashboard for live application metrics and operational visibility.
-
+- **[Optimizing Temporal Fusion Transformer](https://github.com/aneeshKm/Optimizing-Temporal-Fusion-Transformer)**  
+  Optimized Temporal Fusion Transformer with FlashAttention, quantization, and tuning for faster training and inference.
 ---
 
 ### Currently Interested In
